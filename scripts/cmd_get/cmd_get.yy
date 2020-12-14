@@ -1,8 +1,12 @@
 {
-    "id": "32447934-58a5-4d76-bac1-19db90fe048b",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "cmd_get",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Commands",
+    "path": "folders/Scripts/Dev Console/Commands.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "cmd_get",
+  "tags": [],
+  "resourceType": "GMScript",
 }

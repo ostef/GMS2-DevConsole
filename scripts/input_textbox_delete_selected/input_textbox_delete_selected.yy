@@ -1,8 +1,12 @@
 {
-    "id": "bec4fab6-f789-4e89-b34c-15f5dbae4691",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "input_textbox_delete_selected",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Input Textbox",
+    "path": "folders/Scripts/Input Textbox.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "input_textbox_delete_selected",
+  "tags": [],
+  "resourceType": "GMScript",
 }

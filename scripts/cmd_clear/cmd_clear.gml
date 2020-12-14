@@ -1,2 +1,7 @@
 /// @desc cmd_clear
-clear_output();
+function cmd_clear() {
+	clear_output();
+
+
+
+}

@@ -1,8 +1,12 @@
 {
-    "id": "34063403-047c-4485-9811-a92e3b2aa966",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "cmd_quit_game",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Commands",
+    "path": "folders/Scripts/Dev Console/Commands.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "cmd_quit_game",
+  "tags": [],
+  "resourceType": "GMScript",
 }

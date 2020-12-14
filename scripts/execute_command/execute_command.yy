@@ -1,8 +1,12 @@
 {
-    "id": "bfc6cf68-8d26-4c26-852a-cada4c820574",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "execute_command",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Dev Console",
+    "path": "folders/Scripts/Dev Console.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "execute_command",
+  "tags": [],
+  "resourceType": "GMScript",
 }

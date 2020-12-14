@@ -1,2 +1,7 @@
 /// @desc cmd_quit_game
-game_end();
+function cmd_quit_game() {
+	game_end();
+
+
+
+}

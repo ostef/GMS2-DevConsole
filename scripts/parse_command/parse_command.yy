@@ -1,8 +1,12 @@
 {
-    "id": "95559da6-b378-499d-a77b-64755d75fda2",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "parse_command",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Dev Console",
+    "path": "folders/Scripts/Dev Console.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "parse_command",
+  "tags": [],
+  "resourceType": "GMScript",
 }
