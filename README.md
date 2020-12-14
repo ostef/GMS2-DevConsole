@@ -11,5 +11,5 @@ I have not worked on this project for a long time and it is nowhere near complet
 * Cursor movement using keyboard,
 * Selection,
 * Simple auto complete,
-* Copy and pase,
+* Copy and paste,
 * Word skipping
